@@ -1,5 +1,11 @@
 # OmniCommand
 
+TL;DR
+
+npm build  --> this will generate "dist" folder in pwd
+
+Go to chrome -> Extension -> Enabler developer mode -> Load Unpacked -> Select "dist" dir
+
 listens to PG's commands
 
 ## Development 
