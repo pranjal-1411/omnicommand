@@ -2,7 +2,7 @@
 
 TL;DR
 
-npm build  --> this will generate "dist" folder in pwd
+npm install -> npm run build  --> this will generate "dist" folder in pwd
 
 Go to chrome -> Extension -> Enabler developer mode -> Load Unpacked -> Select "dist" dir
 
